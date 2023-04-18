@@ -3,7 +3,7 @@ const { tableau } = window;
 
 function BasicEmbed(props) {
   const [url] = useState(
-    "https://public.tableau.com/views/RegionalSampleWorkbook/Storms"
+    "https://public.tableau.com/views/BlogMentoring/BlogMentoring"
   );
   const ref = useRef(null);
 
